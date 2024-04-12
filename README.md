@@ -17,6 +17,3 @@ Loss is calculated via CrossEntropyLoss function.
 |----------|----------|----------|----------|----------|
 | ColossalAI | 74.01% | 0.44 | 221.38s | 749.53 MB |
 | Benchmark | 70.21% | 0.592 | 237.96s | 873.48 MB |
-
-### Github repository link:
-https://github.com/JosephMcjhin/CS5260Assignment6
