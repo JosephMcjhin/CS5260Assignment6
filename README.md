@@ -1,7 +1,7 @@
 # CS5260Assignment6
 
 ## The model used in the experiment: 
-Resnet18
+- **Type**: Resnet18
 ## The dataset employed: 
 Cifar10
 ## How to run: 
