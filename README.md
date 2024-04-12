@@ -1,4 +1,4 @@
-# CS5260Assignment6
+# CS5260Assignment6 Resnet Training on Cifar10 with ColossalAI
 
 ### The model used in the experiment: 
 Resnet18
