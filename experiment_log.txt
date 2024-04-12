@@ -1,0 +1,51 @@
+For ColossalAI:
+Epoch 1: 100%|██████████| 500/500 [00:22<00:00, 22.21it/s, loss=1.31]
+Accuracy: 40.07%
+Epoch 2: 100%|██████████| 500/500 [00:21<00:00, 22.97it/s, loss=1.25]
+Accuracy: 51.50%
+Epoch 3: 100%|██████████| 500/500 [00:21<00:00, 23.00it/s, loss=0.834]
+Accuracy: 56.95%
+Epoch 4: 100%|██████████| 500/500 [00:21<00:00, 23.12it/s, loss=0.724]
+Accuracy: 60.92%
+Epoch 5: 100%|██████████| 500/500 [00:21<00:00, 23.51it/s, loss=0.787]
+Accuracy: 68.51%
+Epoch 6: 100%|██████████| 500/500 [00:21<00:00, 23.66it/s, loss=0.553]
+Accuracy: 69.18%
+Epoch 7: 100%|██████████| 500/500 [00:21<00:00, 23.41it/s, loss=0.68]
+Accuracy: 70.06%
+Epoch 8: 100%|██████████| 500/500 [00:21<00:00, 23.28it/s, loss=0.692]
+Accuracy: 70.49%
+Epoch 9: 100%|██████████| 500/500 [00:21<00:00, 23.20it/s, loss=0.685]
+Accuracy: 72.18%
+Epoch 10: 100%|██████████| 500/500 [00:21<00:00, 23.34it/s, loss=0.44]
+Accuracy: 74.01%
+Total training time: 221.38 seconds
+Initial memory usage: 494.30 MB
+Final memory usage: 1243.84 MB
+Memory used: 749.53 MB
+
+For Benchmark:
+Epoch 1: 100% 500/500 [00:24<00:00, 20.58it/s, loss=1.28]
+Accuracy: 44.54%
+Epoch 2: 100% 500/500 [00:24<00:00, 20.97it/s, loss=1.08]
+Accuracy: 56.93%
+Epoch 3: 100% 500/500 [00:24<00:00, 20.79it/s, loss=0.997]
+Accuracy: 58.48%
+Epoch 4: 100% 500/500 [00:24<00:00, 20.93it/s, loss=0.69]
+Accuracy: 53.95%
+Epoch 5: 100% 500/500 [00:24<00:00, 20.73it/s, loss=0.736]
+Accuracy: 66.67%
+Epoch 6: 100% 500/500 [00:24<00:00, 20.59it/s, loss=0.642]
+Accuracy: 63.85%
+Epoch 7: 100% 500/500 [00:24<00:00, 20.99it/s, loss=0.675]
+Accuracy: 73.77%
+Epoch 8: 100% 500/500 [00:24<00:00, 20.96it/s, loss=0.744]
+Accuracy: 72.64%
+Epoch 9: 100% 500/500 [00:23<00:00, 21.03it/s, loss=0.871]
+Accuracy: 74.66%
+Epoch 10: 100% 500/500 [00:23<00:00, 21.11it/s, loss=0.592]
+Accuracy: 70.21%
+Total training time: 237.96 seconds
+Initial memory usage: 523.89 MB
+Final memory usage: 1397.37 MB
+Memory used: 873.48 MB
