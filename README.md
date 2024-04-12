@@ -1,14 +1,14 @@
 # CS5260Assignment6
 
-## The model used in the experiment: 
-- **Type**: Resnet18
-## The dataset employed: 
+### The model used in the experiment: 
+Resnet18
+### The dataset employed: 
 Cifar10
-## How to run: 
+### How to run: 
 pip install -r requirement.txt
 
 colossalai run --nproc_per_node 1 mytrain.py
-## Experiment results:
+### Experiment results:
 
 Results after 10 epochs of training with 1 V100 GPU are shown below:
 Loss is calculated via CrossEntropyLoss function.
