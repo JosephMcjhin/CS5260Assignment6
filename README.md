@@ -6,5 +6,6 @@ Resnet18
 Cifar10
 ## How to run: 
 pip install -r requirement.txt
+
 colossalai run --nproc_per_node 1 mytrain.py
 ## Experiment results:
