@@ -2,3 +2,5 @@ torch>=1.8.1
 torchvision>=0.9.1
 colossalai>=0.1.6
 tqdm
+psutil
+pathlib
